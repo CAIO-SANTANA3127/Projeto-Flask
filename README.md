@@ -1,3 +1,3 @@
 ﻿# Projeto-Flask
 
-Apredendo sobre a biblioteca flask 
+Apredendo sobre a biblioteca flask no python 
